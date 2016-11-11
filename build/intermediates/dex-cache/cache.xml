@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8c20543c3b66f3da63b034a8515d1338aa07c9e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_100c2f32df4fe330799289908961ee9aa14be304/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_a99c9a43c3ac8e766eef86e8ad3d3cca370a6f65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_01c8ef04c9f746271c048f1fcc41f913b4c9fc03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_d75272bfc4133e9cf10c5f03cb427882e63bb3c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f691333082f2f199665040c12112e37904b418ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dbe6aff1409ac3fb8e52b56e63b22403c9f3d58b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8c567f0f7b118d4341eb50ec52b5b0edfe142220/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_013a505d2f154c05b07e28fc771ca66c28701a71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_03ed4188f0341ac8e0488ff39ac7994a791bce8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ed9cf89cd2a6bde5f1a30b93c98432719693506d">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e699b2c507893f84362f1c736bb282698292b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_f056a0b6a07c69bde09de6f01e9f727d96d65c59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_764f48f04620b9d09567fe1c4d81df9700a38b89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="84c5750721af282070c9a97c2de0ff6c7fb96bd0">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7ede7b5bb06c5fc6d79f7325d203a2a4baaf45c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b6dc28d1100fcacbb6ce67f9bc6f4dcd14106e61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f81b26707eab4fe9fae1b4e37ffd47d8b206248c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/yuexingwu/wotextt/fangpengyouquan/zidiying/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_978bcdc488fbd019359cbf0fb86567287b6b07e1/classes.dex" />
+    </item>
+
+</items>

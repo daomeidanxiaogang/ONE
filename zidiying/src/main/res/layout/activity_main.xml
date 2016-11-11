@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.demo.zidiying.MainActivity">
+
+    <com.demo.zidiying.TopBar
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        custom:leftBackground="@color/colorAccent"
+        custom:leftText="Back"
+        custom:leftTextColor="#FFFFFF"
+        custom:rightBackground="@color/colorPrimary"
+        custom:rightText="MOre"
+        custom:rightTextColor="@color/colorPrimaryDark"
+        custom:titleTextSize="10sp"
+        custom:title="自定义标题"
+        custom:titleTextColor="#123412">
+
+    </com.demo.zidiying.TopBar>
+    <com.demo.zidiying.MyView
+        android:visibility="gone"
+    android:background="@color/colorPrimaryDark"
+    android:layout_width="100dp"
+    android:layout_height="wrap_content" />
+    <com.demo.zidiying.LogicView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+</LinearLayout>

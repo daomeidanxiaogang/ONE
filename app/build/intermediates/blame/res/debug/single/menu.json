@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yuexingwu/wotextt/fangpengyouquan/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/yuexingwu/wotextt/fangpengyouquan/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/yuexingwu/wotextt/fangpengyouquan/app/build/intermediates/res/merged/debug/menu/navigation_menu.xml",
+        "source": "/Users/yuexingwu/wotextt/fangpengyouquan/app/src/main/res/menu/navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/yuexingwu/ONE/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/yuexingwu/ONE/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/yuexingwu/ONE/app/build/intermediates/res/merged/debug/menu/navigation_menu.xml",
+        "source": "/Users/yuexingwu/ONE/app/src/main/res/menu/navigation_menu.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yuexingwu/ONE/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/yuexingwu/ONE/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuexingwu/wotextt/fangpengyouquan/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/yuexingwu/wotextt/fangpengyouquan/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuexingwu/ONE/app/build/intermediates/res/merged/debug/drawable-xhdpi/eidt_icon_touxiang_nor.png",
+        "source": "/Users/yuexingwu/ONE/app/src/main/res/drawable-xhdpi/eidt_icon_touxiang_nor.png"
+    },
+    {
+        "merged": "/Users/yuexingwu/wotextt/fangpengyouquan/app/build/intermediates/res/merged/debug/drawable-xhdpi/eidt_icon_touxiang_nor.png",
+        "source": "/Users/yuexingwu/wotextt/fangpengyouquan/app/src/main/res/drawable-xhdpi/eidt_icon_touxiang_nor.png"
+    }
+]
